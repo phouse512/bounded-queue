@@ -29,7 +29,7 @@ modifying the contents of the array, it is possible for us to create a Queue of
 size n that only uses an array of size n due to "wrapping around" the front and back index values.
 
 	
-"""Algorithm Complexity"""
+###Algorithm Complexity###
 
 By using two pointers that hold the front and back positions in the queue, my solution takes O(1) time.
 
